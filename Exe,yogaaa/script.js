@@ -1,4 +1,4 @@
-// script.js
+
 (function() {
   // ---- SMOOTH SCROLL for any anchor (hash) ----
   document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
