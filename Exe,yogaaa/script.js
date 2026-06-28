@@ -18,7 +18,7 @@
   });
 
   // START NOW button smooth scroll to top? just demo alert + gentle scroll? Keep consistent: no hash but user experience.
-  const startBtn = document.getElementById("startNowBtn");
+  const startBtn = document.getElementById("startNow");
   if (startBtn) {
     startBtn.addEventListener("click", (e) => {
       e.preventDefault();
